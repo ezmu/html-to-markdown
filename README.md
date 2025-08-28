@@ -18,7 +18,7 @@ A simple **HTML to Markdown** converter with support for selecting a specific el
 
 You can open the converter directly from this repository:
 
-[Open HTML to Markdown Converter](https://github.com/ezmu/html-to-markdown/blob/main/index.html)
+[Open HTML to Markdown Converter](https://ezmu.github.io/html-to-markdown/index.html)
 
 ### Steps:
 
